@@ -9,7 +9,6 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.vishal.cinemate.activities.MainMenuActivity;
 
 public class SplashActivity extends AppCompatActivity {
     LottieAnimationView splashview;
